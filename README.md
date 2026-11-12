@@ -2,6 +2,10 @@
 
 A lightweight local web application for selecting an LLM provider and model, then creating, copying, or downloading a JSON configuration. It uses only the Python standard library; no packages need to be installed.
 
+
+<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ed2be8fc-4cda-47a7-8897-56f7973ecac6" />
+
+
 ## Start the app
 
 From this project folder, run:
